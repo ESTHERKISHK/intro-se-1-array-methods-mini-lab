@@ -1,6 +1,6 @@
 # A list of Anagrams
 
-### The goal
+### Introduction
 
 "Array" is just the programming name we give to a list, and lists are crazy useful. Whether you're planning a party and creating a guest list, going grocery shopping and creating a grocery list, or debating with your friends about the top 10 movies of all time, you likely already do a lot of your thinking in list form.
 
@@ -13,7 +13,9 @@ Here are a few examples of built-in methods Ruby can complete almost instantly:
 * Find a certain item and delete it from the array.
 * Insert a new item into an array.
 
-### Get started
+### The goal
+
+We're going to start by making a list of anagrams of the word "stop". If you can rearrange those four letters to make another word, you've found an anagram! We've already got a partial list of anagrams going, but there are a few errors and a few gaps. Let's go back in and make it better.
 
 The challenges are written out in order in a file called arrays.rb. Code out your solutions after each challenge in that file, and then run the code to see if it worked.  
 
