@@ -1,4 +1,4 @@
-# A list of Anagrams
+# A List of Anagrams
 
 ### Introduction
 
