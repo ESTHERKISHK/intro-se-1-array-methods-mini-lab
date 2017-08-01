@@ -70,4 +70,4 @@ cool_numbers = cool_numbers.sort # In other words, sort the numbers in order, an
 
 ```
 
-As you go through this lab, you'll want to refer back to the [http://ruby-doc.org/core-2.4.1/Array.html](ruby documentation on arrays). The explanations are pretty good, the sample code snippets are great. This is where you can learn about other methods like ".sort" that we used above.
+As you go through this lab, you'll want to refer back to the [ruby documentation on arrays](http://ruby-doc.org/core-2.4.1/Array.html). The explanations are pretty good, the sample code snippets are great. This is where you can learn about other methods like ".sort" that we used above.
